@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[awa:home|Door43 (awa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-awa|d43-awa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-awa/archive/master.zip|d43-awa.zip]]
+
+**Recent Changes**
+{{changes>ns = awa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/awa|Ethnologue data]]
+
